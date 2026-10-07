@@ -21,7 +21,7 @@
 <!-- e.g. FP&A, controlling, treasury, audit, risk, compliance, IB/M&A, asset management, credit analysis, accounting -->
 
 ## Experience
-- Years in finance: 4
+- Years in finance: 2+ full-time (Northern Trust, PE fund operations) plus working-student roles (7Learnings); about 4-5 years in total. On CVs and pitches lead with the full-time number, then add the working-student years
 - Current / last role and employer: Finance Working Student at 7Learnings GmbH 
 - Degree(s): Pursuing Msc in Finance
 - Certifications: <!-- CFA level, ACCA, CPA, FRM, Steuerberater, WP ... -->
