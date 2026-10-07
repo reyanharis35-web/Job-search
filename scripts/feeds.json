@@ -1,0 +1,32 @@
+{
+  "_comment": "Company job feeds verified 2026-10-07 by checking each one returns that company's real postings. Add a feed only after checking it the same way. Big employers on Workday/SuccessFactors (State Street, DWS, Deutsche Börse, EQT...) are not here; the Arbeitsagentur queries are what cover them.",
+  "ats": [
+    {"company": "Moonfare",        "ats": "greenhouse", "slug": "moonfare"},
+    {"company": "Raisin",          "ats": "greenhouse", "slug": "raisin"},
+    {"company": "N26",             "ats": "greenhouse", "slug": "n26"},
+    {"company": "Forvis Mazars",   "ats": "greenhouse", "slug": "forvismazars"},
+    {"company": "Bitpanda",        "ats": "greenhouse", "slug": "bitpanda"},
+    {"company": "Celonis",         "ats": "greenhouse", "slug": "celonis"},
+    {"company": "Upvest",          "ats": "ashby",      "slug": "upvest"},
+    {"company": "Billie",          "ats": "ashby",      "slug": "billie"},
+    {"company": "Pliant",          "ats": "ashby",      "slug": "pliant"},
+    {"company": "Moss",            "ats": "ashby",      "slug": "moss"},
+    {"company": "Qonto",           "ats": "ashby",      "slug": "qonto"},
+    {"company": "Pennylane",       "ats": "ashby",      "slug": "pennylane"},
+    {"company": "Unzer",           "ats": "lever-eu",   "slug": "unzer"},
+    {"company": "Agicap",          "ats": "lever",      "slug": "agicap"},
+    {"company": "Clark",           "ats": "personio",   "slug": "clark"},
+    {"company": "Smava",           "ats": "personio",   "slug": "smava"},
+    {"company": "HTGF",            "ats": "personio",   "slug": "htgf"},
+    {"company": "Lakestar",        "ats": "personio",   "slug": "lakestar"},
+    {"company": "Vivid",           "ats": "personio",   "slug": "vivid"},
+    {"company": "Candis",          "ats": "personio",   "slug": "candis"},
+    {"company": "Finway",          "ats": "personio",   "slug": "finway"}
+  ],
+  "arbeitsagentur_queries": [
+    "Fund Accountant", "Fund Accounting", "Fund Operations", "Fund Finance",
+    "Fund Administrator", "Fund Administration", "Fund Reporting", "Fund Controller",
+    "Fondsbuchhaltung", "Fondsbuchhalter", "Fondsadministration", "Fondscontrolling", "Investor Reporting"
+  ],
+  "arbeitsagentur_days": 30
+}

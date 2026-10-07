@@ -33,3 +33,4 @@ Run the debrief flow without being asked:
 
 ## Session start
 Read `followups.md` and list anything overdue or due within 3 days before doing anything else.
+When asked for new jobs, run `python3 scripts/fetch_leads.py` first and work from the auto block in `leads.md`; never present a lead from web search as live.

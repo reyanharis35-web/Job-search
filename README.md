@@ -14,7 +14,8 @@ scheduled jobs.
 | `targets/germany-finance.csv` | Master list of target employers (174 employers), sortable on GitHub |
 | `targets/shortlist.md` | Top 30 employers ranked against your profile |
 | `targets/README.md` | How the list is organised, what it leaves out, and how to find the rest |
-| `leads.md` | Openings found but not yet applied to |
+| `leads.md` | Live openings (auto block from `scripts/fetch_leads.py`) plus older hand-found leads |
+| `scripts/` | `fetch_leads.py` pulls live postings; `feeds.json` lists the verified company feeds and searches |
 | `drafts/` | Cover letters and outreach waiting to be sent |
 | `pipeline.md` | Every company you're actively working, by stage |
 | `followups.md` | Every promise, with an owner and a due date |
@@ -23,6 +24,7 @@ scheduled jobs.
 | `debriefs/` | One file per call or interview |
 
 ## Daily use
+- **Refresh live jobs:** `python3 scripts/fetch_leads.py` (no installs needed, Python 3.9+). It rewrites the auto block at the top of `leads.md`, marks new rows 🆕 and lists jobs that disappeared since the last run.
 - **Start a session:** "What's due?" Claude reads `followups.md`.
 - **After a call:** paste your notes. Claude writes the debrief and updates the company, people, follow-ups and pipeline files.
 - **Before an interview:** "Prep me for Commerzbank." Claude reads the company file and debriefs.

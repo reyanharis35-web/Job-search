@@ -12,6 +12,9 @@
 - 2026-10-07: [Likely] A "Fund Accountant (m/w/d) Alternative Assets" ad posted under SIGNAL IDUNA in **Frankfurt** (Glassdoor) is probably this role, so the job may sit in Frankfurt, not Hamburg. Check the posting.
 - 2026-10-07: Independent service KVG: administers third-party funds, with a dedicated Alternative Investments division and a Real Assets fund accounting team in Hamburg (web search 2026-10-07).
 
+- 2026-10-07: Confirmed via Arbeitsagentur listing: the Fund Accountant (m/w/d) Alternative Assets role is in **Frankfurt am Main** (posted 2026-09-17). The earlier [Likely] note above is now confirmed.
+- 2026-10-07: Also open: "Mitarbeiter (m/w/d) für das Team Fund Accounting Financial Assets" (Hamburg, German ad) and a Real Assets Fund Accountant parental-leave cover (Hamburg, fixed-term). See the auto block in leads.md.
+
 ## People
 - [Mr Döring](../people/doring-hansainvest.md), contact on the Fund Accountant posting
 
