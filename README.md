@@ -24,7 +24,7 @@ scheduled jobs.
 | `debriefs/` | One file per call or interview |
 
 ## Daily use
-- **Refresh live jobs:** `python3 scripts/fetch_leads.py` (no installs needed, Python 3.9+). It rewrites the auto block at the top of `leads.md`, marks new rows 🆕 and lists jobs that disappeared since the last run.
+- **Refresh live jobs:** `python3 scripts/fetch_leads.py` (no installs needed, Python 3.9+). It rewrites the auto block at the top of `leads.md`, marks new rows 🆕 and lists jobs that disappeared since the last run. A GitHub Action (`.github/workflows/fetch-leads.yml`) also runs it every morning and commits the result; run it by hand from the repo's Actions tab.
 - **Start a session:** "What's due?" Claude reads `followups.md`.
 - **After a call:** paste your notes. Claude writes the debrief and updates the company, people, follow-ups and pipeline files.
 - **Before an interview:** "Prep me for Commerzbank." Claude reads the company file and debriefs.

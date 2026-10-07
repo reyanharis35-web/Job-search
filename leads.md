@@ -11,7 +11,7 @@ Level: `fit` or `stretch` (senior/lead title). Ad: `EN` or `DE` (German-language
 
 | New | Level | Ad | Via | Company | Role | Location | Posted | First seen | Checked | Source | Link |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 🆕 | fit | EN | direct | Allianz Global Investors GmbH | Fund in Fund Operations Specialist (f/m/d) - Limited to 20 months | Frankfurt am Main | 2026-09-19 | 2026-10-07 | 2026-10-07 | arbeitsagentur | [open](https://www.arbeitsagentur.de/jobsuche/jobdetail/15719-44453533-918-S) |
+| 🆕 | fit | EN | direct | Allianz Global Investors GmbH ⭐ | Fund in Fund Operations Specialist (f/m/d) - Limited to 20 months | Frankfurt am Main | 2026-09-19 | 2026-10-07 | 2026-10-07 | arbeitsagentur | [open](https://www.arbeitsagentur.de/jobsuche/jobdetail/15719-44453533-918-S) |
 | 🆕 | fit | EN | direct | HANSAINVEST -Hanseatische Investment-GmbH ⭐ | Fund Accountant (m/w/d) Alternative Assets | Frankfurt am Main | 2026-09-17 | 2026-10-07 | 2026-10-07 | arbeitsagentur | [open](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003456817-S) |
 | 🆕 | fit | EN | agency | Opus One Recruitment GmbH | Fund Accountant Wertpapierfonds (m/w/d) | München | 2026-09-25 | 2026-10-07 | 2026-10-07 | arbeitsagentur | [open](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000848847-S) |
 | 🆕 | fit | DE | direct | HANNOVER LEASING | Bilanzbuchhalter / Fund Accountant  (w/m/d) Real Estate,Frankfurt am Main,Pullach,Pullach,Pullach | Frankfurt am Main; Pullach im Isartal | 2026-07-02 | 2026-10-07 | 2026-10-07 | arbeitsagentur | [open](https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2289350-S) |
