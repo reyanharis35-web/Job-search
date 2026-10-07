@@ -15,7 +15,7 @@ scheduled jobs.
 | `targets/shortlist.md` | Top 30 employers ranked against your profile |
 | `targets/README.md` | How the list is organised, what it leaves out, and how to find the rest |
 | `leads.md` | Live openings (auto block from `scripts/fetch_leads.py`) plus older hand-found leads |
-| `scripts/` | `fetch_leads.py` pulls live postings; `feeds.json` lists the verified company feeds and searches |
+| `scripts/` | `fetch_leads.py` pulls live postings (ATS feeds, Arbeitsagentur API, and the Citco, Vistra, TMF Group and Hannover Leasing career sites); `feeds.json` lists the verified sources. Glassdoor is deliberately excluded |
 | `drafts/` | Cover letters and outreach waiting to be sent |
 | `pipeline.md` | Every company you're actively working, by stage |
 | `followups.md` | Every promise, with an owner and a due date |

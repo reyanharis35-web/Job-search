@@ -23,6 +23,12 @@
     {"company": "Candis",          "ats": "personio",   "slug": "candis"},
     {"company": "Finway",          "ats": "personio",   "slug": "finway"}
   ],
+  "fund_admins": [
+    {"company": "Citco",            "type": "citco",            "_checked": "2026-10-08 Oracle HCM JSON, keyword=Germany"},
+    {"company": "Vistra",           "type": "vistra",           "_checked": "2026-10-08 Phenom phApp.ddo, country DEU"},
+    {"company": "TMF Group",        "type": "tmf",              "_checked": "2026-10-08 Avature HTML, search= param"},
+    {"company": "Hannover Leasing", "type": "hannover-leasing", "_checked": "2026-10-08 rexx static HTML; Glassdoor shows it as Corestate"}
+  ],
   "arbeitsagentur_queries": [
     "Fund Accountant", "Fund Accounting", "Fund Operations", "Fund Finance",
     "Fund Administrator", "Fund Administration", "Fund Reporting", "Fund Controller",
