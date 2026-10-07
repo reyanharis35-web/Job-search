@@ -1,4 +1,4 @@
-# Shortlist: top 30 (built 2026-10-07 from profile.md)
+# Shortlist: top 31 (built 2026-10-07 from profile.md)
 
 Inputs from `profile.md`: Berlin-based, will relocate anywhere, English C2 / German B1, student permit
 until July 2027 (graduating March 2027), start from Jan 2027, salary floor €48k, 2 years PE fund
@@ -8,7 +8,7 @@ Finance thesis on market reactions to 750+ AI acquisitions. Tools: Excel.
 All 30 are tagged `english` or `mixed` in `germany-finance.csv`. Every `german`-tagged employer is
 excluded: at B1 you'd lose to native speakers there.
 
-## Tier A: fund operations (your strongest card, apply first)
+## Tier A: fund operations (your strongest card, apply first; 16 firms)
 Your Northern Trust experience maps almost one-to-one onto these. Expect titles like *Fund Accountant*,
 *Fund Operations Analyst*, *Private Markets Operations*, *Fund Controller*, *Investor Services*.
 
@@ -29,6 +29,7 @@ Your Northern Trust experience maps almost one-to-one onto these. Expect titles 
 | 13 | BlackRock (Germany) | Munich, Frankfurt | Operations and product roles; English |
 | 14 | PATRIZIA | Augsburg, Frankfurt | Real-asset funds: fund finance, investor reporting |
 | 15 | Upvest | **Berlin** | Investment infrastructure fintech: fund/securities operations |
+| 16 | HANSAINVEST | Hamburg | Service KVG: fund administration for third-party funds incl. alternative assets. **Application in progress** (added 2026-10-07) |
 
 ## Tier B1: M&A / IB analyst (stretch: apply, but don't rely on it)
 Your thesis on AI acquisitions is a real talking point. But IB analyst programmes recruit 9 to 12 months
@@ -37,14 +38,14 @@ are more realistic than bulge brackets.
 
 | # | Company | Where | Why it fits you |
 |---|---|---|---|
-| 16 | Lincoln International | Frankfurt, Munich | Mid-market M&A; valuation work suits Excel-heavy profiles |
-| 17 | Houlihan Lokey | Frankfurt, Munich | Mid-market M&A, restructuring, valuation |
-| 18 | PwC Deutschland (Deals) | Frankfurt, Berlin, Munich | Transaction services / valuation; large analyst intake |
-| 19 | EY Germany (Strategy & Transactions) | Eschborn, Berlin, Munich | Same; English-speaking teams exist in deals |
-| 20 | KPMG Germany (Deal Advisory) | Frankfurt, Berlin, Munich | Same |
-| 21 | Berenberg | Hamburg, Frankfurt | IB and equity research; mixed language |
-| 22 | Rothschild & Co | Frankfurt | Top-tier M&A advisory; hardest door on the list |
-| 23 | Alvarez & Marsal | Munich, Frankfurt | Restructuring and transaction advisory |
+| 17 | Lincoln International | Frankfurt, Munich | Mid-market M&A; valuation work suits Excel-heavy profiles |
+| 18 | Houlihan Lokey | Frankfurt, Munich | Mid-market M&A, restructuring, valuation |
+| 19 | PwC Deutschland (Deals) | Frankfurt, Berlin, Munich | Transaction services / valuation; large analyst intake |
+| 20 | EY Germany (Strategy & Transactions) | Eschborn, Berlin, Munich | Same; English-speaking teams exist in deals |
+| 21 | KPMG Germany (Deal Advisory) | Frankfurt, Berlin, Munich | Same |
+| 22 | Berenberg | Hamburg, Frankfurt | IB and equity research; mixed language |
+| 23 | Rothschild & Co | Frankfurt | Top-tier M&A advisory; hardest door on the list |
+| 24 | Alvarez & Marsal | Munich, Frankfurt | Restructuring and transaction advisory |
 
 ## Tier B2: FP&A / junior finance manager (realistic fallback, mostly Berlin)
 Your 7Learnings work (AP/AR across entities, cash reinvestment analysis for the CEO) supports these.
@@ -52,13 +53,13 @@ Weak spot: FP&A job ads usually ask for SAP, Power BI or SQL on top of Excel.
 
 | # | Company | Where | Why it fits you |
 |---|---|---|---|
-| 24 | Zalando | Berlin | Large English-speaking finance org: FP&A, accounting, treasury |
-| 25 | Delivery Hero | Berlin | Same; also M&A team |
-| 26 | N26 | Berlin | Fintech finance: FP&A, treasury |
-| 27 | Trade Republic | Berlin | Fintech finance, fast-growing |
-| 28 | Raisin | Berlin | Fintech: FP&A, treasury |
-| 29 | Mambu | Berlin | SaaS: FP&A, revenue accounting |
-| 30 | Taxfix | Berlin | Startup finance: closest to your 7Learnings work |
+| 25 | Zalando | Berlin | Large English-speaking finance org: FP&A, accounting, treasury |
+| 26 | Delivery Hero | Berlin | Same; also M&A team |
+| 27 | N26 | Berlin | Fintech finance: FP&A, treasury |
+| 28 | Trade Republic | Berlin | Fintech finance, fast-growing |
+| 29 | Raisin | Berlin | Fintech: FP&A, treasury |
+| 30 | Mambu | Berlin | SaaS: FP&A, revenue accounting |
+| 31 | Taxfix | Berlin | Startup finance: closest to your 7Learnings work |
 
 ## Not on the list but worth checking
 [Guessing] PE fund administrators such as Alter Domus, IQ-EQ, Apex Group and JTC hire for exactly

@@ -1,6 +1,6 @@
 # Target list: finance employers in Germany
 
-`germany-finance.csv` lists 173 employers. It is **not "all companies"**. Germany has over a
+`germany-finance.csv` lists 174 employers. It is **not "all companies"**. Germany has over a
 thousand licensed credit institutions alone (mostly Sparkassen and Volksbanken), plus thousands of
 Mittelstand firms with finance departments. A list of all of them would be useless to you. This one
 covers the employers that hire the most finance people, across every segment, so you can pick from it.
@@ -18,7 +18,7 @@ covers the employers that hire the most finance people, across every segment, so
 | `status` | Mirror of `pipeline.md` once you engage |
 
 ## The language reality
-Of the 173 employers, 56 are tagged `english` and most of those are in Frankfurt (international
+Of the 174 employers, 56 are tagged `english` and most of those are in Frankfurt (international
 banks, EU bodies, Deutsche Börse) or Berlin/Munich (fintechs, PE/VC, a few DAX firms like SAP,
 Zalando, adidas, Infineon). If your German is below B2, those 56 plus the English-speaking teams
 inside the `mixed` ones are your real market. Set `priority` accordingly.

@@ -6,7 +6,7 @@
 - Name: Reyan Haris
 - Current location: Berlin
 - Citizenship / work authorisation in Germany: <!-- EU citizen / EU Blue Card needed / already have permit --> Residence permit (Student visa until July 2027, but job seeker visa after graduation in  March 2027)
-- Earliest start date: Jan 2027
+- Earliest start date: Jan 2027 (thesis submitted 1 Dec 2026; plan to apply for the work permit with the provisional degree certificate once there's an offer)
 - Willing to relocate to: <!-- Frankfurt / Munich / Berlin / Hamburg / Düsseldorf / anywhere --> Yes
 
 ## Languages (be honest: this decides half the list)

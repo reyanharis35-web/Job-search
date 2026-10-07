@@ -19,19 +19,26 @@ Reyan Haris
 
 
 
-## Patterns (Claude fills in from the samples)
-> Updated 2026-10-07 from 2 samples: 1 casual message to a friend, 1 cover letter (Fund Accountant).
-> Professional drafts follow the cover letter. The casual sample only shows warmth to keep.
+## Patterns
+> Updated 2026-10-07. Sample 1 is Reyan's own casual writing. Sample 2 (cover letter) was AI-drafted:
+> it's a structure template, NOT Reyan's voice. Reyan wants professional drafts to blend the two.
 
-### Professional
-- Opening: states the purpose in the first sentence ("I'm applying for X and wanted to send it to you directly, as...")
-- Structure: 3 short paragraphs (relevant past experience → current role + availability → one-line close)
-- Specifics over adjectives: numbers and real tasks ("~€1bn AUA", "capital call and distribution notices", "NAV and share-class reconciliation breaks")
-- Uses the industry's own vocabulary without explaining it
-- Close: clipped and confident ("CV attached. Happy to answer anything directly.")
+### The blend (use for all professional drafts)
+From the cover letter (structure):
+- First sentence states the purpose. No warm-up.
+- 3-4 short paragraphs: relevant experience → current role + availability → why them → close
+- Concrete numbers and real tasks instead of adjectives; industry vocabulary used plainly
 - Sign-off: "Best regards," + full name
-- Contractions are fine ("I'm")
-- Never: hype words (passionate, excited, dynamic, thrilled), self-praise adjectives, filler such as "I hope this email finds you well"
+
+From Reyan's own voice (personality):
+- Plain, spoken phrasing over corporate phrasing ("checking X against Y", not "ensuring alignment of")
+- Genuine curiosity: one real question about their team or work, like asking a friend "how come the bus had no lights?"
+- One light, self-aware human line per letter at most (e.g. liking a clean reconciliation more than most people should)
+- Warm, direct close that invites a reply
+
+Hard limits (never in professional writing):
+- "hahaha", emojis, "!!", more than one joke
+- Hype words: passionate, excited, thrilled, dynamic, "I hope this email finds you well"
 
 ### Casual (friends only)
-- Short chatty bursts, "hahaha", exclamation marks, playful exaggeration. Never in professional drafts.
+- Short chatty bursts, "hahaha", exclamation marks, playful exaggeration
