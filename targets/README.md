@@ -18,9 +18,9 @@ covers the employers that hire the most finance people, across every segment, so
 | `status` | Mirror of `pipeline.md` once you engage |
 
 ## The language reality
-Of the 173 employers, 55 are tagged `english` and most of those are in Frankfurt (international
+Of the 173 employers, 56 are tagged `english` and most of those are in Frankfurt (international
 banks, EU bodies, Deutsche Börse) or Berlin/Munich (fintechs, PE/VC, a few DAX firms like SAP,
-Zalando, adidas, Infineon). If your German is below B2, those 55 plus the English-speaking teams
+Zalando, adidas, Infineon). If your German is below B2, those 56 plus the English-speaking teams
 inside the `mixed` ones are your real market. Set `priority` accordingly.
 
 ## How the list was built and what to verify
