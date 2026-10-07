@@ -5,4 +5,4 @@ Stages: `researching` → `applied` → `screening` → `interviewing` → `offe
 | Company | Role | Stage | Since | Next step | Link |
 |---|---|---|---|---|---|
 | HANSAINVEST | Fund Accountant, Alternative Assets | applied | 2026-10-07 | Wait for reply; follow up 2026-10-21 if silent | companies/hansainvest.md |
-| Moonfare | Fund Operations Analyst (m/f/d) | researching | 2026-10-07 | Confirm posting is live, then send the draft | leads.md |
+| Moonfare | Fund Operations Analyst (m/f/d) | withdrawn | 2026-10-07 | Role filled; watch Moonfare for new fund ops roles | leads.md |

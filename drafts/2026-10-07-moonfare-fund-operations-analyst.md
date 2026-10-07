@@ -1,6 +1,6 @@
 # Draft: cover letter, Moonfare, Fund Operations Analyst (m/f/d), Berlin
 
-Status: draft, not sent. Confirm the posting is live first. Fill in [brackets].
+Status: NOT SENT, role filled (2026-10-07). Reuse as a template for similar fund ops roles. Confirm the posting is live first. Fill in [brackets].
 Voice: blended (see voice.md). Moonfare works in English, so English is right.
 
 ---

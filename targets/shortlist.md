@@ -1,7 +1,7 @@
 # Shortlist: top 31 (built 2026-10-07 from profile.md)
 
-Inputs from `profile.md`: Berlin-based, will relocate anywhere, English C2 / German B1, student permit
-until July 2027 (graduating March 2027), start from Jan 2027, salary floor €48k, 2 years PE fund
+Inputs from `profile.md`: Berlin-based, will relocate anywhere, English C1 / German B1, student permit
+until July 2027 (graduating December 2026), start from Jan 2027, salary floor €48k, 2 years PE fund
 operations at Northern Trust, finance working student at 7Learnings (AP/AR, DE + US entities), MSc
 Finance thesis on market reactions to 750+ AI acquisitions. Tools: Excel.
 

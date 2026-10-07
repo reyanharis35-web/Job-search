@@ -54,5 +54,4 @@ Scale: 40+ private equity and fund-of-funds portfolios, €1B+ AUA. (Confirmed b
 - **Building from zero:** the Ramp rollout for a new US entity.
 
 ## Inconsistencies to resolve (2026-10-07)
-- MSc end date: CV says **12/2026**; profile.md said March 2027.
-- English: CV says **C1**; profile.md says C2.
+- (Resolved 2026-10-07) MSc ends **December 2026**; English is **C1**. Profile updated.

@@ -11,4 +11,4 @@ Mark done with `[x]`; don't delete rows.
 | [ ] | 2026-10-14 | Reyan | Add 2-3 professional writing samples to voice.md (email to a manager, LinkedIn message, cover letter paragraph) | all | voice.md |
 | [x] | 2026-10-10 | Reyan | (Sent by 2026-10-07) Finish the HANSAINVEST cover letter (add the 'why them' sentence) and send it to Mr Döring | hansainvest | drafts/2026-10-07-hansainvest-fund-accountant.md |
 | [ ] | 2026-10-21 | Reyan | If HANSAINVEST hasn't replied, send a short follow-up to Mr Döring | hansainvest | pipeline.md |
-| [ ] | 2026-10-09 | Reyan | Open each lead in leads.md, confirm it is still live, then tell Claude which ones to draft | all | leads.md |
+| [x] | 2026-10-09 | Reyan | (Done 2026-10-07: all filled) Open each lead in leads.md, confirm it is still live, then tell Claude which ones to draft | all | leads.md |
