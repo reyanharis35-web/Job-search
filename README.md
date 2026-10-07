@@ -14,6 +14,8 @@ scheduled jobs.
 | `targets/germany-finance.csv` | Master list of target employers (174 employers), sortable on GitHub |
 | `targets/shortlist.md` | Top 30 employers ranked against your profile |
 | `targets/README.md` | How the list is organised, what it leaves out, and how to find the rest |
+| `leads.md` | Openings found but not yet applied to |
+| `drafts/` | Cover letters and outreach waiting to be sent |
 | `pipeline.md` | Every company you're actively working, by stage |
 | `followups.md` | Every promise, with an owner and a due date |
 | `companies/` | One file per company you're actually engaging with |

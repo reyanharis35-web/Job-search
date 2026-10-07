@@ -4,4 +4,5 @@ Stages: `researching` → `applied` → `screening` → `interviewing` → `offe
 
 | Company | Role | Stage | Since | Next step | Link |
 |---|---|---|---|---|---|
-| HANSAINVEST | Fund Accountant, Alternative Assets | researching | 2026-10-07 | Fix and send the cover letter to Mr Döring | companies/hansainvest.md |
+| HANSAINVEST | Fund Accountant, Alternative Assets | applied | 2026-10-07 | Wait for reply; follow up 2026-10-21 if silent | companies/hansainvest.md |
+| Moonfare | Fund Operations Analyst (m/f/d) | researching | 2026-10-07 | Confirm posting is live, then send the draft | leads.md |

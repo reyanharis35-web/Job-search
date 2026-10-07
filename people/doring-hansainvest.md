@@ -9,3 +9,4 @@
 - 2026-10-07: Cover letter drafted to send to him directly (drafts/2026-10-07-hansainvest-fund-accountant.md). Not yet sent.
 
 ## What they care about
+- 2026-10-07: Application sent (Reyan confirmed).
