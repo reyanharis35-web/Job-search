@@ -15,7 +15,7 @@
 ## Applications
 | Date | Role | Req ID | Status |
 |---|---|---|---|
-| 2026-10-07 | Fund in Fund Operations Specialist | 106480 | CV tailoring sheet ready, not yet applied |
+| 2026-10-07 | Fund in Fund Operations Specialist | 106480 | applied (by 2026-10-08) |
 
 ## Why them / why me (for interviews)
 - Me: Northern Trust fund-of-funds administration (40+ PE/FoF portfolios, €1B+ AUA): direct "custody services for target funds" experience; capital activity on target-fund holdings; process improvement (-20% audit rework, -70% missing docs); built Ramp rollout from zero (implementation project).

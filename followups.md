@@ -12,4 +12,5 @@ Mark done with `[x]`; don't delete rows.
 | [x] | 2026-10-10 | Reyan | (Sent by 2026-10-07) Finish the HANSAINVEST cover letter (add the 'why them' sentence) and send it to Mr Döring | hansainvest | drafts/2026-10-07-hansainvest-fund-accountant.md |
 | [ ] | 2026-10-21 | Reyan | If HANSAINVEST hasn't replied, send a short follow-up to Mr Döring | hansainvest | pipeline.md |
 | [x] | 2026-10-09 | Reyan | (Done 2026-10-07: all filled) Open each lead in leads.md, confirm it is still live, then tell Claude which ones to draft | all | leads.md |
-| [ ] | 2026-10-09 | Reyan | Tailor CV with drafts/2026-10-07-allianzgi-fund-in-fund-operations.md and apply to AllianzGI (job 106480) | allianz-global-investors | pipeline.md |
+| [x] | 2026-10-09 | Reyan | (Applied by 2026-10-08) Tailor CV with drafts/2026-10-07-allianzgi-fund-in-fund-operations.md and apply to AllianzGI (job 106480) | allianz-global-investors | pipeline.md |
+| [ ] | 2026-10-22 | Reyan | Check AllianzGI application status in their portal (no hiring-manager contact, per the ad) | allianz-global-investors | pipeline.md |
