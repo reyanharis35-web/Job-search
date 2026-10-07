@@ -12,6 +12,7 @@ scheduled jobs.
 | `profile.md` | **Fill this in first.** Who you are, target roles, languages, visa status |
 | `voice.md` | How you write, so drafts sound like you |
 | `targets/germany-finance.csv` | Master list of target employers (173 employers), sortable on GitHub |
+| `targets/shortlist.md` | Top 30 employers ranked against your profile |
 | `targets/README.md` | How the list is organised, what it leaves out, and how to find the rest |
 | `pipeline.md` | Every company you're actively working, by stage |
 | `followups.md` | Every promise, with an owner and a due date |
