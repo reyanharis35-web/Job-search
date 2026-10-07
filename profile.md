@@ -21,11 +21,11 @@
 <!-- e.g. FP&A, controlling, treasury, audit, risk, compliance, IB/M&A, asset management, credit analysis, accounting -->
 
 ## Experience
-- Years in finance: 2+ full-time (Northern Trust, PE fund operations) plus working-student roles (7Learnings); about 4-5 years in total. On CVs and pitches lead with the full-time number, then add the working-student years
+- Years in finance: ~4 full-time (Arkgen Pharma junior accountant 08/2017–06/2019 + Northern Trust fund administration 09/2022–07/2024) plus working student at 7Learnings since 12/2025. Full detail in experience.md
 - Current / last role and employer: Finance Working Student at 7Learnings GmbH 
-- Degree(s): Pursuing Msc in Finance
+- Degree(s): MSc Finance, Hochschule Schmalkalden (CV: 10/2024–12/2026, thesis due 1 Dec 2026); BBA Financial Markets, Manipal (2022, top 10%)
 - Certifications: <!-- CFA level, ACCA, CPA, FRM, Steuerberater, WP ... -->
-- Key tools: <!-- Excel/VBA, SAP FI/CO, Python, SQL, Bloomberg, Power BI ... --> Excel
+- Key tools: Excel (advanced), SAP, Capital IQ, Chargebee, Ramp, Finway, Python (basic)
 
 ## Constraints
 - Minimum gross salary (EUR/year): 48000

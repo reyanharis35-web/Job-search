@@ -22,6 +22,7 @@ Run the debrief flow without being asked:
 ## When drafting (outreach, cover letters, follow-up emails)
 - Read `voice.md` first and write like the user, not like an AI.
 - Pull specifics from the company file. A generic draft means you didn't read it.
+- Every experience claim must come from `experience.md`. Never infer duties Reyan didn't list.
 - German-language roles get German drafts unless the user says otherwise.
 
 ## Rules
