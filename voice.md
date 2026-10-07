@@ -20,11 +20,18 @@ Reyan Haris
 
 
 ## Patterns (Claude fills in from the samples)
-> Based on ONE casual message to a friend (2026-10-07). Not enough for professional drafts.
-> Add 2-3 professional samples: an email to a manager or client, a LinkedIn message, a cover letter paragraph.
+> Updated 2026-10-07 from 2 samples: 1 casual message to a friend, 1 cover letter (Fund Accountant).
+> Professional drafts follow the cover letter. The casual sample only shows warmth to keep.
 
-- Sentence length: short to medium; quick, chatty bursts
-- Formality: very informal with friends (laughter, exclamation marks, playful exaggeration)
-- Traits worth keeping in professional writing: warmth, directness, light humour, curious follow-up questions
-- Traits to drop in professional writing: "hahaha", double exclamation marks, run-on joke chains
-- Phrases I never use: (unknown, fill in)
+### Professional
+- Opening: states the purpose in the first sentence ("I'm applying for X and wanted to send it to you directly, as...")
+- Structure: 3 short paragraphs (relevant past experience → current role + availability → one-line close)
+- Specifics over adjectives: numbers and real tasks ("~€1bn AUA", "capital call and distribution notices", "NAV and share-class reconciliation breaks")
+- Uses the industry's own vocabulary without explaining it
+- Close: clipped and confident ("CV attached. Happy to answer anything directly.")
+- Sign-off: "Best regards," + full name
+- Contractions are fine ("I'm")
+- Never: hype words (passionate, excited, dynamic, thrilled), self-praise adjectives, filler such as "I hope this email finds you well"
+
+### Casual (friends only)
+- Short chatty bursts, "hahaha", exclamation marks, playful exaggeration. Never in professional drafts.
