@@ -35,12 +35,6 @@
   "source": "tmf",
   "title": "Accountant/BilanzbuchhalterIn - SPV (m/w/d)"
  },
- "https://tmf.avature.net/careersmarketplace/JobDetail/Accountant-BuchhalterIn-Client-Accounting-Operational-m-w-d/36421": {
-  "company": "TMF Group",
-  "first_seen": "2026-10-08",
-  "source": "tmf",
-  "title": "Accountant/BuchhalterIn - Client Accounting Operational (m/w/d)"
- },
  "https://tmf.avature.net/careersmarketplace/JobDetail/Senior-Accountant-BilanzbuchhalterIn-Private-Equity-and-Capital-Markets-m-w-d/35644": {
   "company": "TMF Group",
   "first_seen": "2026-10-08",
@@ -137,9 +131,9 @@
   "source": "arbeitsagentur",
   "title": "Sachbearbeiter Fondsbuchhaltung (m/w/d)"
  },
- "https://www.arbeitsagentur.de/jobsuche/jobdetail/13643-2L_623397-S": {
+ "https://www.arbeitsagentur.de/jobsuche/jobdetail/13643-1L_625773-S": {
   "company": "Michael Page GmbH",
-  "first_seen": "2026-10-22",
+  "first_seen": "2026-10-27",
   "source": "arbeitsagentur",
   "title": "Fondsbuchhalter (m/w/d)"
  },
@@ -147,6 +141,6 @@
   "company": "Moonfare",
   "first_seen": "2026-10-07",
   "source": "greenhouse",
-  "title": "Fund Reporting Manager (f/m/d)"
+  "title": "Fund Reporting Specialist (f/m/d)"
  }
 }
